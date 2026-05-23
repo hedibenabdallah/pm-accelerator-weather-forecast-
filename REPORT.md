@@ -1,5 +1,7 @@
 # Weather Trend Assessment
 
+PM Accelerator mission: give everyone equal access to education.
+
 ## Scope
 
 Dataset: `GlobalWeatherRepository.csv`
