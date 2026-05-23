@@ -1,0 +1,13 @@
+{
+  "baseline": {
+    "rmse": 1.6606300935766245,
+    "mae": 1.1030769230769233
+  },
+  "random_forest": {
+    "rmse": 1.3450370096264879,
+    "mae": 0.9755487179487188
+  },
+  "forecast_location": "Accra",
+  "train_rows": 260,
+  "test_rows": 65
+}
